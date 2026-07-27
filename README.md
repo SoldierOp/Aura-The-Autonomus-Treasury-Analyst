@@ -271,8 +271,3 @@ npm start
 Created as part of an academic/innovation project.
 
 ---
-``` 
-
-If you want, I can also generate:
-1. a **“GitHub-optimized README”** with badges, quick links, and screenshots sections, or  
-2. an **“interview/demo README”** version tailored for recruiters and project evaluators.
